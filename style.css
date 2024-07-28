@@ -1,0 +1,52 @@
+body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      max-width: 1200px;
+      margin: auto;
+      background: #FFFFFF;
+      padding: 10px 10px 10px 10px;
+  }
+
+h1 {
+      font-size: 55px;
+      color: #757575;
+      text-align:center;
+      margin-bottom:15px;
+}
+
+h2 {
+  color: #397249;
+}
+h2:before {
+  content: "";
+  display: inline-block;
+  margin-right:1%;
+  width: 16%;
+  height: 10px;
+  background-color: #9CB770;
+}
+
+@media print {
+  h2:before {
+    content: "";
+    display: inline-block;
+    margin-right: 1%;
+    width: 16%;
+    height: 10px;
+    background-color: #9CB770;
+  }
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: none;
+}
+
+th, td {
+    border: none;
+    padding: 8px;
+    text-align: left;
+    vertical-align: top;
+}
+
+
