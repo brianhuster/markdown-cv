@@ -14,13 +14,13 @@
 ## Achievements
 |  |  |
 |-------------|-----------------------------------------------|
-| 2022 - 2023 | [**University Scholarship**]() <br> *For excellent achievements in semesters 20221, 20222* <br> Hanoi Universiy of Science and Technology (HUST)
+| 2022 - 2023 | [**University Scholarship**]() <br> *For excellent achievements in semesters 20222, 20231* <br> Hanoi Universiy of Science and Technology (HUST)
 | April 2024 | **Consolation prize** <br> **Student Creative Ideas Challenge 2024** by *School of Information and Communications Technology of HUST*. <br> Our team worked on a smart glass for visually impaired people.
 
 ## Experiences
 |  |  |
 |-------------|-----------------------------------------------|
-| September 2023 | **Global Project Based Learning** <br> Teamworking with Vietnamese and Japanese students on a IOT medicine delivery robot for smart hospitals |
+| September 2023 | [**Global Project Based Learning**](https://raw.githubusercontent.com/brianhuster/markdown-cv/main/img/Minh%20ch%E1%BB%A9ng%20GPBL.jpg) <br> Teamworking with Vietnamese and Japanese students on a IOT medicine delivery robot for smart hospitals |
 | March 2024 - present | **R\&D internship** <br> EJOY LEARNING TECHNOLOGY JOINT STOCK COMPANY <br> Synthesize and translate scientific articles on technology and education topics for company journals
 
 ## Skills
@@ -49,7 +49,7 @@
 - **Other soft skills**:
     - Teamwork, presentation, communication, problem solving, critical thinking, time management, self-learning
 
-## Personal projects
+## Some Personal projects
 |  |  |
 |-------------|-----------------------------------------------|
 | [live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) | A Neovim plugin for live previewing markdown, html, css files. <br> Built with Lua, Node.js. Currently in development <br> Source code : [https://github.com/brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) |
