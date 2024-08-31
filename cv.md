@@ -26,27 +26,26 @@
 
 ## Skills
 - **Programming languages**: 
-    - C++, Python, JavaScript, HTML, CSS, Node.js, markdown : advanced
+    - JavaScript, HTML, CSS, Node.js, markdown,  : advanced
     - Lua, bash, Latex : intermediate
-    - Arduino, Rust : beginner
+    - Arduino, Rust, PHP : beginner
 
 - **Frameworks / Libraries**: 
-    - Web development : VueJS, ExpressJS, Bootstrap, flask, Jenkins
+    - Frontend web development : ReactJS, VueJS, Bootstrap, Express
     - Python : flask, Llama.cpp, OpenCV, scikit-learn, pandas, numpy, matplotlib 
 
 - **Database**: 
-    - MySQL, SQLite
+    - MySQL, MongoDB
 
-- **Tools**:
+- **Other tools**:
     - Version control and containerization : Git, Docker
-    - Code editors and IDE : Vim, Neovim, Nano, Arduino IDE, Visual Studio Code
+    - Code editors and IDE : Vim, Neovim, Nano, Visual Studio Code, Arduino IDE
     - Operating systems : Linux (Ubuntu)
 
 - **Languages**:
     - 🇻🇳 Vietnamese : native
-    - 🇬🇧 English : TOEIC 825
-    - 🇯🇵 Japanese : JLPT N4
-    - 🇨🇳 Mandarin : basic
+    - 🇬🇧 English : TOEIC 825 (HUST's eternal exam, October 2022)
+    - 🇯🇵 Japanese : JLPT N4 (mock exam)
 
 - **Other soft skills**:
     - Teamwork, presentation, communication, problem solving, critical thinking, time management, self-learning
