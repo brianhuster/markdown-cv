@@ -1,10 +1,9 @@
 <link rel="stylesheet" type="text/css" href="style.css" /> 
 
-<!-- <img src="avatar.jpg" alt="Pham Binh An" style="max-width:150px;"/> -->
 
 |  |  |
 |-------------|-----------------------------------------------|
-| <img src="avatar.jpg" alt="Pham Binh An" style="max-width:150px;"/> | <h1>Phạm Bình An</h1> <center> phambinhanctb2004@gmail.com  \| (+84) 369 565 170  <br> [Website](https://brianhuster.github.io) \| [GitHub](https://github.com/brianhuster) </center> |
+| <img src="./img/avatar.jpg" alt="Pham Binh An" style="max-width:150px;"/> | <h1>Phạm Bình An</h1> <center> phambinhanctb2004@gmail.com  \| (+84) 369 565 170  <br> [Website](https://brianhuster.github.io) \| [GitHub](https://github.com/brianhuster) </center> |
 
 ## Education
 |  |  |
@@ -15,7 +14,7 @@
 ## Achievements
 |  |  |
 |-------------|-----------------------------------------------|
-| 2022 - 2023 | **University Scholarship** <br> *For excellent achievements in semesters 20221, 20222* <br> Hanoi Universiy of Science and Technology (HUST)
+| 2022 - 2023 | [**University Scholarship**]() <br> *For excellent achievements in semesters 20221, 20222* <br> Hanoi Universiy of Science and Technology (HUST)
 | April 2024 | **Consolation prize** <br> **Student Creative Ideas Challenge 2024** by *School of Information and Communications Technology of HUST*. <br> Our team worked on a smart glass for visually impaired people.
 
 ## Experiences
