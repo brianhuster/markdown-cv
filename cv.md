@@ -25,13 +25,13 @@
 | March 2024 - present | **R\&D internship** <br> EJOY LEARNING TECHNOLOGY JOINT STOCK COMPANY <br> Synthesize and translate scientific articles on technology and education topics for company journals
 
 ## Skills
-- **Programming languages**: 
-    - JavaScript, HTML, CSS, Node.js, markdown,  : advanced
-    - Lua, bash, Latex : intermediate
-    - Arduino, Rust, PHP : beginner
+- **Languages**: 
+    - JavaScript, Lua, Python, C++, C : advanced
+    - Bash, Latex : intermediate
 
 - **Frameworks / Libraries**: 
-    - Frontend web development : ReactJS, VueJS, Bootstrap, Express
+    - Frontend web development : ReactJS, VueJS, Bootstrap
+    - Backend web development : ExpressJS
     - Python : flask, Llama.cpp, OpenCV, scikit-learn, pandas, numpy, matplotlib 
 
 - **Database**: 
@@ -39,12 +39,12 @@
 
 - **Other tools**:
     - Version control and containerization : Git, Docker
-    - Code editors and IDE : Vim, Neovim, Nano, Visual Studio Code, Arduino IDE
+    - Code editors and IDE : Neovim, Visual Studio Code
     - Operating systems : Linux (Ubuntu)
 
 - **Languages**:
     - 🇻🇳 Vietnamese : native
-    - 🇬🇧 English : TOEIC 825 (HUST's eternal exam, October 2022)
+    - 🇬🇧 English : TOEIC 825 (HUST's internal exam, October 2022)
     - 🇯🇵 Japanese : JLPT N4 (mock exam)
 
 - **Other soft skills**:
@@ -53,8 +53,7 @@
 ## Personal projects
 |  |  |
 |-------------|-----------------------------------------------|
-| [live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) | A Neovim plugin for live previewing markdown, html, css files. <br> Built with Lua, Node.js. Currently in development <br> Source code : [https://github.com/brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) |
-| [Personal blog](https://brianhuster.github.io) | A personal static blog about technology and education (expected). <br> Built with HTML, CSS, Javascript, Markdown, Jenkins <br> Hosted by Github page. Source code : [https://github.com/brianhuster/brianhuster.github.io](https://github.com/brianhuster/brianhuster.github.io) |
+| [live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) | A Neovim plugin for live previewing markdown, html, Asciidoc files. <br> The http and websocket server used by this plugin is implemented in Lua based on TCP connection provided by Libuv <br> Has 37 stars on Github <br> Source code : [https://github.com/brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) |
 | [Gamehub](https://github.com/brianhuster/Gamehub) | A simple game hub website for playing (for players) and managing online games (for admin). <br> Built with Node.js, ExpressJS, MySQL, EJS (embedded template), CSS, JS <br> Source code : https://github.com/brianhuster/Gamehub |
 | [OCR command line tool](https://github.com/brianhuster/ocr_python) | A simple CLI tool for extracting text for image or camera. User can choose different models for detecting and recognizing text, like Tesseract, VietOCR, OpenOCR. Built with Python <br> Source code : [https://github.com/brianhuster/brianhuster.github.io](https://github.com/brianhuster/brianhuster.github.io) |
 

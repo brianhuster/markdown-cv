@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "electron-pdf": "^25.0.0"
+    "electron-pdf": "^25.0.0",
+    "puppeteer": "^23.2.1"
   }
 }
